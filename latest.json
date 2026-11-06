@@ -1,0 +1,6 @@
+{
+  "version": "1.6.0",
+  "url": "https://github.com/lemotd/Yesir-releases/releases/download/v1.6.0/Yesir-1.6.0.zip",
+  "size": 1423341,
+  "notes": "## 新增\n\n- 软件内自升级：设置 →「关于」里能检查更新并一键装上。升级是原地替换，辅助功能授权不用重新给\n- 倒计时自动关闭：「自动同意 AI 授权」和「保持亮屏」可以选 15 / 30 / 60 / 120 分钟后自动关掉\n\n## 修复\n\n- 自动同意不再会悄悄失效：某一轮扫描卡在没响应的应用上时，看门狗会接管，不用重启 Yesir\n- VS Code / Cursor 这类 Electron 应用，功能关掉再打开后，AX 引擎能继续正常命中按钮"
+}
